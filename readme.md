@@ -1,6 +1,6 @@
 # ReducerContext - how to combine useReducer & useContext
 
-Just a simple example for a generic store that combines React hook useReducer and React context.
+Just a simple example for a generic store that combines React hook, useReducer and React context.
 
 ## The magic happens here
 
